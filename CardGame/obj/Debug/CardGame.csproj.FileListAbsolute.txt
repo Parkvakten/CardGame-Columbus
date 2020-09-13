@@ -1,7 +1,6 @@
 D:\Visual Studio Projects\CardGame\CardGame\bin\Debug\CardGame.exe.config
 D:\Visual Studio Projects\CardGame\CardGame\bin\Debug\CardGame.exe
 D:\Visual Studio Projects\CardGame\CardGame\bin\Debug\CardGame.pdb
-D:\Visual Studio Projects\CardGame\CardGame\obj\Debug\CardGame.csprojAssemblyReference.cache
 D:\Visual Studio Projects\CardGame\CardGame\obj\Debug\CardGame.Form1.resources
 D:\Visual Studio Projects\CardGame\CardGame\obj\Debug\CardGame.Properties.Resources.resources
 D:\Visual Studio Projects\CardGame\CardGame\obj\Debug\CardGame.csproj.GenerateResource.cache

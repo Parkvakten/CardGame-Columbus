@@ -1,0 +1,16 @@
+D:\Visual Studio Projects\CardGame\TestCardGame\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\Visual Studio Projects\CardGame\TestCardGame\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\Visual Studio Projects\CardGame\TestCardGame\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\Visual Studio Projects\CardGame\TestCardGame\bin\Debug\TestCardGame.dll
+D:\Visual Studio Projects\CardGame\TestCardGame\bin\Debug\TestCardGame.pdb
+D:\Visual Studio Projects\CardGame\TestCardGame\bin\Debug\CardGame.exe
+D:\Visual Studio Projects\CardGame\TestCardGame\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\Visual Studio Projects\CardGame\TestCardGame\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\Visual Studio Projects\CardGame\TestCardGame\bin\Debug\CardGame.pdb
+D:\Visual Studio Projects\CardGame\TestCardGame\bin\Debug\CardGame.exe.config
+D:\Visual Studio Projects\CardGame\TestCardGame\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\Visual Studio Projects\CardGame\TestCardGame\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\Visual Studio Projects\CardGame\TestCardGame\obj\Debug\TestCardGame.csprojAssemblyReference.cache
+D:\Visual Studio Projects\CardGame\TestCardGame\obj\Debug\TestCardGame.csproj.CopyComplete
+D:\Visual Studio Projects\CardGame\TestCardGame\obj\Debug\TestCardGame.dll
+D:\Visual Studio Projects\CardGame\TestCardGame\obj\Debug\TestCardGame.pdb
